@@ -1,0 +1,11 @@
+{
+    "general":{
+        "400":"BadRequest",
+        "404":"not found",
+        "500":"internal server error"
+    },
+    "token":{
+        "401":"Unauthorized, invalid/expired token",
+        "417":"Token not found"
+    }
+}
