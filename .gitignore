@@ -1,13 +1,4 @@
 **/node_modules
-**/package-lock.json
-**/.env
-**/.env/**
-**/.env**
-.env.development
-.env.test
 **/.nyc_output
 **/node-rsa
 **/coverage
-**/pi_2W_Master.json
-**/private.pem
-**/public.pem
